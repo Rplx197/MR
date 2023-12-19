@@ -14,5 +14,9 @@ Saya senang membuat project dengan keahlian yang saya bisa, itu saja..
 Terima kasih sudah mampir di profil saya.
 
 # Github Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Rplx197&show_icons=true&theme=tokyonight)
+<p align="left">
+<a href="https://github.com/Rplx197">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rplx197&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rplx197&layout=compact&layout=compact&theme=tokyonight"/>
+</a>
+</p>
